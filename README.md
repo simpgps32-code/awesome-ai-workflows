@@ -1,4 +1,4 @@
-# Awesome AI Workflows [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Website](https://img.shields.io/badge/Website-aizenme.com-10b981)](https://aizenme.com) [![Workflows](https://img.shields.io/badge/Workflows-260%2B-blue)](https://aizenme.com)
+# Awesome AI Workflows [![CI](https://github.com/simpgps32-code/awesome-ai-workflows/actions/workflows/ci.yml/badge.svg)](https://github.com/simpgps32-code/awesome-ai-workflows/actions) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Website](https://img.shields.io/badge/Website-aizenme.com-10b981)](https://aizenme.com) [![Workflows](https://img.shields.io/badge/Workflows-260%2B-blue)](https://aizenme.com)
 
 > ⚡ **260+ Curated, Actionable AI Workflows & Implementation Guides with Copy-Ready Prompts, 4-Step SOP Checklists, and Interactive Code-Driven Animations.**
 > 

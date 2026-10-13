@@ -1,0 +1,25 @@
+name: Repository CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Markdown structure
+        run: |
+          echo "Checking README.md and README_ZH.md existence..."
+          test -f README.md || exit 1
+          test -f README_ZH.md || exit 1
+          echo "Checking workflow counts in README..."
+          COUNT_EN=$(grep -c "### " README.md)
+          COUNT_ZH=$(grep -c "### " README_ZH.md)
+          echo "Found $COUNT_EN workflows in English README and $COUNT_ZH in Chinese README."
+          test $COUNT_EN -ge 250 || exit 1
+          echo "All validation checks passed successfully!"

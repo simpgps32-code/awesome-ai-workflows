@@ -1,4 +1,4 @@
-# Awesome AI Workflows (实战 AI 落地工作流指南) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Website](https://img.shields.io/badge/Website-aizenme.com-10b981)](https://aizenme.com) [![Workflows](https://img.shields.io/badge/Workflows-260%2B-blue)](https://aizenme.com)
+# Awesome AI Workflows (实战 AI 落地工作流指南) [![CI](https://github.com/simpgps32-code/awesome-ai-workflows/actions/workflows/ci.yml/badge.svg)](https://github.com/simpgps32-code/awesome-ai-workflows/actions) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Website](https://img.shields.io/badge/Website-aizenme.com-10b981)](https://aizenme.com) [![Workflows](https://img.shields.io/badge/Workflows-260%2B-blue)](https://aizenme.com)
 
 > ⚡ **260+ 经过真实业务验证的 AI 落地实现指南：附带开箱即用提示词模板、4 步标准 SOP 执行清单以及纯代码驱动的交互动效演示。**
 > 
